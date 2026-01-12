@@ -1,0 +1,10 @@
+print("My Favorites")
+
+food = input("What is your favorite food? ")
+color = input("What is your favorite color? ")
+movie = input("What is your favorite movie? ")
+
+print("\nYour favorites are:")
+print("Food:", food)
+print("Color:", color)
+print("Movie:", movie)
